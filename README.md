@@ -12,7 +12,6 @@ I aim to use my skills and knowledge to make a meaningful impact, preventing cyb
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
