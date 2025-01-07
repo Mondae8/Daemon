@@ -1,6 +1,12 @@
 <h1>Hi, I'm Daemon! IT Cloud Specialist, Cloud Security Specialist, Cybersecurity Professional, Network Engineer and Project Manager
 
-  
+  I am pursuing a Cybersecurity Degree at Western Governors University (WGU) to gain comprehensive knowledge to advance my career through a competency-based education model, and earn valuable industry certifications 
+
+## Objective
+
+
+I aim to use my skills and knowledge to make a meaningful impact, preventing cybercrimes, and creating a resilient digital landscape..
+
   
   
   <a href="https://linkedin.com/in/damon-keener-94461a335"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -44,11 +50,6 @@
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_IT_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" />  
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Hackabox 
 
 
 
